@@ -1,4 +1,3 @@
-Here is everything I have been working on for VAC.
 The most interesting stuff is in vac3_proxy_dll and in vac3_response_parser.
 
 You have to set it up on a remote server to let it work properly.
@@ -10,3 +9,6 @@ You have to set it up on a remote server to let it work properly.
 
 
 WTFPL – Do What the Fuck You Want to Public License http://www.wtfpl.net/
+
+
+Visit https://www.giga-core.com for more useless things...
