@@ -10,6 +10,3 @@ You have to set it up on a remote server to let it work properly.
 
 
 WTFPL – Do What the Fuck You Want to Public License http://www.wtfpl.net/
-
-
-Visit https://www.giga-core.com for more useless things...
